@@ -1,0 +1,1 @@
+# Bookstore Hibernate Mapping
